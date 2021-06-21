@@ -1,0 +1,37 @@
+{
+  "name": "food-ordering-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.11.2",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/styles": "^4.9.13",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-fontawesome": "^1.7.1",
+    "react-icons": "^4.1.0",
+    "react-modal": "^3.12.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.1",
+    "typeface-roboto": "0.0.75",
+    "validator": "^13.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "font-awesome": "^4.7.0"
+  }
+}
